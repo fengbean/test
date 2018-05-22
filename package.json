@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+	  "start": "parcel index.html",
+	  "dev": "npm run start",
+	  "build": "parcel build index.html"
+	},
+  "repository": "https://github.com/fengbean/test.git",
+  "author": "jte_fengdou <jte_fengdou@tencent.com>",
+  "license": "MIT"
+}
